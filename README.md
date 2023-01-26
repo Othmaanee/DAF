@@ -1,3 +1,3 @@
 # DAF
 
-Pour apprendre le WEB DEV
+Pour apprendre le DEV WEB
